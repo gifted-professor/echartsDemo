@@ -28,3 +28,15 @@ body,
     background-image: radial-gradient(circle, rgba(255, 255, 255, 0.001), rgba(0, 0, 0, 0.5), rgb(0, 0, 0));
 }
 </style>
+
+<style>
+html,
+body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+</style>
